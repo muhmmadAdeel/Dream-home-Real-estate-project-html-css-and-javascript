@@ -55,9 +55,6 @@ A full-stack web application for managing property listings, bookings, and clien
 - Property rental platforms  
 - Personal portfolio project  
 
-Here’s an expanded **Troubleshooting** section to add to your README.md, covering common issues and solutions if the project fails to execute:
-
----
 
 ## 🚨 **Troubleshooting Guide**  
 
