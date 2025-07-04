@@ -2,7 +2,7 @@
 
 # 🏠 Real Estate Management System  
 
-A full-stack web application for managing property listings, bookings, and client interactions. Built with **Node.js**, **Express**, and **MySQL/PostgreSQL**, with a responsive frontend using **HTML/CSS/JavaScript**.  
+A full-stack web application for managing property listings, bookings, and client interactions. Built with **Node.js**, **Express**, and **SQL server**, with a responsive frontend using **HTML/CSS/JavaScript**.  
 
 ### ✨ **Key Features**  
 - **Property Listings**: Add, edit, and browse properties with filters (price, location, type).  
