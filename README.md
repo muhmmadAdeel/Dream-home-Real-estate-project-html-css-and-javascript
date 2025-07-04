@@ -1,6 +1,4 @@
-Here’s a polished GitHub repository description for your **Real Estate Management System** project:
 
----
 
 # 🏠 Real Estate Management System  
 
